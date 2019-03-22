@@ -1,0 +1,7 @@
+1,1,claro,e,e,e
+1,2,mov,e,e,e
+2,1,tigo,w,w,w
+2,2,etb,w,w,w
+4,2,car,c,c,c
+1,4,def,d,d,d
+1,3,ert,g,g,g
