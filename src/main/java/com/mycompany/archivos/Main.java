@@ -5,13 +5,15 @@
  */
 package com.mycompany.archivos;
 
+import java.io.IOException;
+
 /**
  *
  * @author Jkammilo
  */
 public class Main {
     
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException{
         Logica l= new Logica();
     }
 }
